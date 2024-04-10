@@ -11,3 +11,5 @@ Langage de Programmation: Python
 Frameworks: TensorFlow, NLTK (Natural Language Toolkit)
 Plateforme de Développement: Google Cloud Platform (GCP)
 Outils de Développement: Git, GitHub
+
+le projet  : https://drive.google.com/drive/folders/1Xs-nyS43NIl1r1xEG7nqjdlTb5n0SZ5B?usp=drive_link
